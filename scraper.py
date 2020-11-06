@@ -63,9 +63,11 @@ def reputation_checker(url):
     assert "Check if a Website is Malicious/Scam or Safe/Legit | URLVoid" in driver.title
     text = wait.until(EC.element_to_be_clickable(
         (By.XPATH, '/html/body/div[3]/div[2]/div[2]/div/table/tbody/tr[3]/td[2]/span'))).text
+    server_location = wait.until(EC.element_to_be_clickable(
+        (By.XPATH, '/html/body/div[3]/div[2]/div[2]/div/table/tbody/tr[9]/td[2]'))).text
     driver.close()
     print("Blacklist score: ", text)
-
+    print("Server Location: ", server_location)
 # $prints page rank score on 10
 
 
