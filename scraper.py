@@ -81,14 +81,22 @@ def page_rank(url):
     elem.send_keys(url)
     elem.send_keys(Keys.RETURN)
     assert "Page Rank Checker - Check Your Website Pagerank" in driver.title
-    text = wait.until(EC.element_to_be_clickable(
-        (By.XPATH, '/html/body/div[5]/div/div/div[1]/ul/li[2]/table/tbody/tr/td/span/span'))).text
+    try :
+        text = wait.until(EC.element_to_be_clickable(
+            (By.XPATH, '/html/body/div[5]/div/div/div[1]/ul/li[2]/table/tbody/tr/td/span/span'))).text
+        print("Page Rank score is :", text)
+    except: 
+        print("Domain not found for page rank")
     driver.close()
-    print("Page Rank score is :", text)
 
 
-url = "google.com"
-domain_info(url)
-black_listed(url)
-reputation_checker(url)
-page_rank(url)
+url1 = "platnosc-payu24.com/"
+url2 = "google.com"
+
+urls = [url1, url2]
+for url in urls:
+    print("Information from the Data Analyzer for :", url)
+    domain_info(url)
+    black_listed(url)
+    reputation_checker(url)
+    page_rank(url)
