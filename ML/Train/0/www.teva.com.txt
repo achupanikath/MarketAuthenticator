@@ -1,0 +1,13 @@
+URL: teva.com
+Report collected on: 2020-11-17 18:46:59.633247
+Will expire on: 2021-01-29
+Registered on: 1999-01-29
+Updated on: 2019-09-26
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

@@ -1,0 +1,13 @@
+URL: carvana.com
+Report collected on: 2020-11-17 14:55:54.746522
+Will expire on: 2022-10-18
+Registered on: 2003-10-18
+Updated on: 2019-01-04
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

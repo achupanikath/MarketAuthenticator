@@ -1,0 +1,13 @@
+URL: nba.com
+Report collected on: 2020-11-17 16:56:33.824227
+Will expire on: 2020-11-27
+Registered on: 1994-11-28
+Updated on: 2020-10-20
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

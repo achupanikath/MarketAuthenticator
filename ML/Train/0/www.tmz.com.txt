@@ -1,0 +1,13 @@
+URL: tmz.com
+Report collected on: 2020-11-17 19:03:55.403393
+Will expire on: 2030-02-15
+Registered on: 1996-02-15
+Updated on: 2020-09-14
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 7 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

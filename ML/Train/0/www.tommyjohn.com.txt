@@ -1,0 +1,13 @@
+URL: tommyjohn.com
+Report collected on: 2020-11-17 18:18:54.966805
+Will expire on: 2026-11-14
+Registered on: 2002-11-14
+Updated on: 2017-11-02
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

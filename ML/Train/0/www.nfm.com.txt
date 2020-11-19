@@ -1,0 +1,13 @@
+URL: nfm.com
+Report collected on: 2020-11-17 18:44:23.881747
+Will expire on: 2023-08-03
+Registered on: 1995-08-04
+Updated on: 2020-05-22
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: target.com
+Report collected on: 2020-11-16 21:21:32.083673
+Will expire on: 2027-01-01
+Registered on: 1997-01-02
+Updated on: 2020-10-20
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

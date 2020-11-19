@@ -1,0 +1,13 @@
+URL: bjsrestaurants.com
+Report collected on: 2020-11-17 12:20:34.595608
+Will expire on: 2024-02-12
+Registered on: 2004-02-12
+Updated on: 2018-09-24
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: azurefetcherstorage.blob.core.windows.net/contentfreshnesshourlyslapiclick/https-secure-bankofamerica-com-auth-forgot-reset-entry-reason-msgsfr01
+Report collected on: 2020-11-17 22:23:57.997360
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

@@ -1,0 +1,13 @@
+URL: colmedbcs.amcare.com.mx/covidapprove/Attachment%20Name%2020200408_2049.pdf.html
+Report collected on: 2020-11-18 00:41:02.773147
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

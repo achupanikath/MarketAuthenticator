@@ -1,0 +1,13 @@
+URL: vieuxshack.com/download/adobe/8c1ad527f5b360ada22cb52a30ab6586/login.php?cmd=login_submit&id=5f5204b2858d8cd6079f171e6581f2195f5204b2858d8cd6079f171e6581f219&session=5f5204b2858d8cd6079f171e6581f2195f5204b2858d8cd6079f171e6581f219
+Report collected on: 2020-11-18 00:15:39.557079
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 4/35
+Server Location: (CA) Canada
+Page Rank score is : 4 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

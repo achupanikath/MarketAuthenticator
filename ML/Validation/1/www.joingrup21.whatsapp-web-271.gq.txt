@@ -1,0 +1,13 @@
+URL: joingrup21.whatsapp-web-271.gq/
+Report collected on: 2020-11-17 23:36:39.769721
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

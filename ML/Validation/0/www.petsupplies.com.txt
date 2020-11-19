@@ -1,0 +1,13 @@
+URL: petsupplies.com
+Report collected on: 2020-11-17 19:53:54.235277
+Will expire on: 2022-01-02
+Registered on: 1998-01-03
+Updated on: 2018-12-31
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

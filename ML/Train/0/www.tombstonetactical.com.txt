@@ -1,0 +1,13 @@
+URL: tombstonetactical.com
+Report collected on: 2020-11-17 12:50:19.584991
+Will expire on: 2021-05-22
+Registered on: 2010-05-02
+Updated on: 2017-05-22
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 5 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

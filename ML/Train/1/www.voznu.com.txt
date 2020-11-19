@@ -1,0 +1,13 @@
+URL: voznu.com/ex/auto/excelz/bizmail.php?email=&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
+Report collected on: 2020-11-18 02:25:54.075005
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 7/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

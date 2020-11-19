@@ -1,0 +1,13 @@
+URL: s.vpass.jp/resource/1467073810000/webinq_linkArrow01
+Report collected on: 2020-11-18 03:35:50.968822
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: Nothing Found
+Server Location: Nothing Found
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

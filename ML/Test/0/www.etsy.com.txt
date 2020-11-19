@@ -1,0 +1,13 @@
+URL: etsy.com
+Report collected on: 2020-11-17 19:06:41.575872
+Will expire on: 2021-02-05
+Registered on: 2004-02-05
+Updated on: 2019-10-22
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 8 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

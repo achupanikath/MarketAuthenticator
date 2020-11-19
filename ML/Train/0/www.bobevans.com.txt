@@ -1,0 +1,13 @@
+URL: www.bobevans.com
+Report collected on: 2020-11-18 04:24:55.176363
+Will expire on: 2025-11-29
+Registered on: 1995-11-30
+Updated on: 2020-09-09
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: xcodefix.com/
+Report collected on: 2020-11-17 23:12:22.617334
+Will expire on: 2021-11-04
+Registered on: 2009-11-04
+Updated on: 2020-11-03
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 3 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

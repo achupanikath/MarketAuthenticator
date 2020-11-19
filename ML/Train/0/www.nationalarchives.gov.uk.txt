@@ -1,0 +1,13 @@
+URL: nationalarchives.gov.uk
+Report collected on: 2020-11-17 17:27:45.955886
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

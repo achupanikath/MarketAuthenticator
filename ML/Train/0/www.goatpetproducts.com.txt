@@ -1,0 +1,13 @@
+URL: goatpetproducts.com
+Report collected on: 2020-11-17 19:51:45.640680
+Will expire on: 2021-09-24
+Registered on: 2016-09-24
+Updated on: 2020-09-24
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 5 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

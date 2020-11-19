@@ -1,0 +1,13 @@
+URL: outravantagem.com/files/excelonline/index.php?email=nobody@mycraftmail.com
+Report collected on: 2020-11-17 22:50:26.117634
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 5/35
+Server Location: (IT) Italy
+Page Rank score is : 3 / 10
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

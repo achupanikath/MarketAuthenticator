@@ -1,0 +1,13 @@
+URL: modells.com
+Report collected on: 2020-11-17 20:00:34.515338
+Will expire on: 2021-11-12
+Registered on: 1997-11-13
+Updated on: 2020-10-20
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: thingiverse.com
+Report collected on: 2020-11-17 17:02:52.049220
+Will expire on: 2022-10-18
+Registered on: 2008-10-18
+Updated on: 2018-01-11
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: www.bathandbodyworks.com
+Report collected on: 2020-11-18 04:20:23.673752
+Will expire on: 2022-09-13
+Registered on: 1997-09-15
+Updated on: 2020-08-13
+This site is: blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

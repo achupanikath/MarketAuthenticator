@@ -1,0 +1,13 @@
+URL: tvguide.com
+Report collected on: 2020-11-17 19:05:34.564227
+Will expire on: 2021-12-04
+Registered on: 1994-12-06
+Updated on: 2020-08-10
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

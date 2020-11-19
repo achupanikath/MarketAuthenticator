@@ -1,0 +1,13 @@
+URL: fandango.com
+Report collected on: 2020-11-17 19:36:09.338415
+Will expire on: 2021-04-28
+Registered on: 1995-08-07
+Updated on: 2020-10-20
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

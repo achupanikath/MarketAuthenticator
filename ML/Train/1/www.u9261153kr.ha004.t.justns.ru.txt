@@ -1,0 +1,13 @@
+URL: u9261153kr.ha004.t.justns.ru/rv-ds/orange_authen/customer-IDPP00C714/login.php
+Report collected on: 2020-11-18 02:38:10.858288
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 6/35
+Server Location: (RU) Russian Federation
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: False

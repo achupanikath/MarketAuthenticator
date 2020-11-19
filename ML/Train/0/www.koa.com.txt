@@ -1,0 +1,13 @@
+URL: koa.com
+Report collected on: 2020-11-17 16:53:30.259028
+Will expire on: 2027-01-05
+Registered on: 1999-01-05
+Updated on: 2017-12-04
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

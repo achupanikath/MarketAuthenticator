@@ -1,0 +1,13 @@
+URL: ofertasliverpool.com/
+Report collected on: 2020-11-18 03:54:50.642230
+Will expire on: 2021-11-14
+Registered on: 2020-11-14
+Updated on: 2020-11-14
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (AU) Australia
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

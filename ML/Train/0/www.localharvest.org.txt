@@ -1,0 +1,13 @@
+URL: localharvest.org
+Report collected on: 2020-11-17 20:06:52.752800
+Will expire on: 2021-03-14
+Registered on: 1999-03-15
+Updated on: 2018-03-07
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

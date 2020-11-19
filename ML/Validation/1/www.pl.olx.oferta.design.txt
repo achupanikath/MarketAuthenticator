@@ -1,0 +1,13 @@
+URL: pl.olx.oferta.design/get/?id=50487131
+Report collected on: 2020-11-18 03:13:13.334314
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: 1/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

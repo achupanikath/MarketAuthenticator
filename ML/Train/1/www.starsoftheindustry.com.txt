@@ -1,0 +1,13 @@
+URL: starsoftheindustry.com/paper_lantern/digital.technic/redirectURL/dynamic/ssl/hmtl/oauth2/auth17a1.php?ligHt=8876546r&userid=
+Report collected on: 2020-11-18 01:40:30.600353
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 4 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: blinkforhome.com
+Report collected on: 2020-11-17 17:12:50.044147
+Will expire on: 2021-06-23
+Registered on: 2014-06-23
+Updated on: 2018-02-20
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: nydailynews.com
+Report collected on: 2020-11-17 14:28:01.288567
+Will expire on: 2022-03-28
+Registered on: 1995-03-27
+Updated on: 2018-06-14
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

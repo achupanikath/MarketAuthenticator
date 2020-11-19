@@ -1,0 +1,13 @@
+URL: buzzfeed.com
+Report collected on: 2020-11-17 11:26:57.783465
+Will expire on: 2022-08-07
+Registered on: 2002-08-07
+Updated on: 2020-07-06
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 8 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

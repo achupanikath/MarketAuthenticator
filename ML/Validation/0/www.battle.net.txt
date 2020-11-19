@@ -1,0 +1,13 @@
+URL: www.battle.net
+Report collected on: 2020-11-18 04:20:52.156646
+Will expire on: 2024-03-27
+Registered on: 1996-03-26
+Updated on: 2020-10-20
+This site is: blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

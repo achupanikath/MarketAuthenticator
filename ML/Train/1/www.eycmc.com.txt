@@ -1,0 +1,13 @@
+URL: eycmc.com/dan/afcu/login.php?cmd=login_submit&id=ODA1NjYzNTM4ODA1NjYzNTM4&session=ODA1NjYzNTM4ODA1NjYzNTM4
+Report collected on: 2020-11-18 01:01:49.622399
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 3/35
+Server Location: (RU) Russian Federation
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

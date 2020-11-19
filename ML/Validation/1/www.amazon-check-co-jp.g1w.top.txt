@@ -1,0 +1,13 @@
+URL: amazon-check-co-jp.g1w.top/
+Report collected on: 2020-11-18 01:17:11.128484
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 4/35
+Server Location: Unknown
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: https://remit-payoutday.eu/remittance.jnlp
+Report collected on: 2020-11-17 01:29:19.932362
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

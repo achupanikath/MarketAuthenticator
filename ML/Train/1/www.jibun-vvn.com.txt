@@ -1,0 +1,13 @@
+URL: jibun-vvn.com
+Report collected on: 2020-11-18 03:25:08.332834
+Will expire on: 2021-11-18
+Registered on: 2020-11-18
+Updated on: 0001-01-01
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: Unknown
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

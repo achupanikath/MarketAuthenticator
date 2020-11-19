@@ -1,0 +1,13 @@
+URL: master.d3j5hf6pbhawiy.amplifyapp.com/
+Report collected on: 2020-11-18 01:36:28.144986
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 4/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

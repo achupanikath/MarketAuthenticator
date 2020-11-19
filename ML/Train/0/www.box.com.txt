@@ -1,0 +1,13 @@
+URL: box.com
+Report collected on: 2020-11-17 14:45:24.608284
+Will expire on: 2021-02-16
+Registered on: 1999-02-17
+Updated on: 2019-10-15
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (DE) Germany
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

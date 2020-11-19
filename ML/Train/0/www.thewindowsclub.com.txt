@@ -1,0 +1,13 @@
+URL: thewindowsclub.com
+Report collected on: 2020-11-17 14:34:56.234853
+Will expire on: 2025-11-02
+Registered on: 2008-11-02
+Updated on: 2020-09-11
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (FR) France
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

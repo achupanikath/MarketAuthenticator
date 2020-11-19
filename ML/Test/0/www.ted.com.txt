@@ -1,0 +1,13 @@
+URL: ted.com
+Report collected on: 2020-11-17 11:46:11.575713
+Will expire on: 2021-11-07
+Registered on: 1994-11-08
+Updated on: 2020-10-08
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 8 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

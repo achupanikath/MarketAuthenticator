@@ -1,0 +1,13 @@
+URL: thecompanystore.com
+Report collected on: 2020-11-17 18:47:29.535351
+Will expire on: 2023-04-03
+Registered on: 1996-04-02
+Updated on: 2020-10-20
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

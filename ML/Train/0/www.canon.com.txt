@@ -1,0 +1,13 @@
+URL: canon.com
+Report collected on: 2020-11-17 14:54:09.511807
+Will expire on: 2020-11-27
+Registered on: 1990-11-28
+Updated on: 2019-11-25
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (JP) Japan
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

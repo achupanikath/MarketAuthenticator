@@ -1,0 +1,13 @@
+URL: content-fbook-97726659.roggiehouse.it/nextVRF.html?location=f71c0bc1dc8d575b2199a5843f5cbc94
+Report collected on: 2020-11-18 00:11:55.611312
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

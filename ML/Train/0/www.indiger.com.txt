@@ -1,0 +1,13 @@
+URL: indiger.com
+Report collected on: 2020-11-17 20:03:59.792502
+Will expire on: 2021-01-15
+Registered on: 2013-01-15
+Updated on: 2020-01-16
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 3 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

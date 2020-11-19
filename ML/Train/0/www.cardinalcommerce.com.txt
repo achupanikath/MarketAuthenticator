@@ -1,0 +1,13 @@
+URL: cardinalcommerce.com
+Report collected on: 2020-11-17 13:04:59.631839
+Will expire on: 2021-05-19
+Registered on: 1999-05-19
+Updated on: 2017-12-16
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

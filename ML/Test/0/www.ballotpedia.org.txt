@@ -1,0 +1,13 @@
+URL: www.ballotpedia.org
+Report collected on: 2020-11-18 04:18:05.290988
+Will expire on: 2022-05-21
+Registered on: 2007-05-21
+Updated on: 2012-09-10
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

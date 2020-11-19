@@ -1,0 +1,13 @@
+URL: store.magento.xn--blockchin-c2d.com/
+Report collected on: 2020-11-18 00:50:20.065733
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 6/35
+Server Location: (RU) Russian Federation
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

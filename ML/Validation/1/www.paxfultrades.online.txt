@@ -1,0 +1,13 @@
+URL: paxfultrades.online/register.php?ref=Lhouwest96
+Report collected on: 2020-11-18 03:38:42.186799
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: k12.com
+Report collected on: 2020-11-17 16:52:45.840428
+Will expire on: 2020-12-22
+Registered on: 1994-12-23
+Updated on: 2020-10-21
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

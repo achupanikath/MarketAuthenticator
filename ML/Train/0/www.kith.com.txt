@@ -1,0 +1,13 @@
+URL: kith.com
+Report collected on: 2020-11-17 17:25:59.470721
+Will expire on: 2029-01-16
+Registered on: 2000-09-26
+Updated on: 2019-01-16
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

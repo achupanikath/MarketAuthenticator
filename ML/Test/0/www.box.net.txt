@@ -1,0 +1,13 @@
+URL: box.net
+Report collected on: 2020-11-17 14:46:09.104054
+Will expire on: 2021-03-28
+Registered on: 1995-03-27
+Updated on: 2019-09-24
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (DE) Germany
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

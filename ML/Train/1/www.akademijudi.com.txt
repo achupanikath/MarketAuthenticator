@@ -1,0 +1,13 @@
+URL: akademijudi.com/web
+Report collected on: 2020-11-18 01:12:04.524281
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

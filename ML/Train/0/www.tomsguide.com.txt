@@ -1,0 +1,13 @@
+URL: tomsguide.com
+Report collected on: 2020-11-17 19:04:27.208462
+Will expire on: 2021-08-03
+Registered on: 2000-08-03
+Updated on: 2020-07-04
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

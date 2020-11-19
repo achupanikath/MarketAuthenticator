@@ -1,0 +1,13 @@
+URL: www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjc1qSclontAhUlQxUIHfdQBFIQFjABegQIARAC&url=https%3A%2F%2Fwhatsnextdigital.com.br%2Fstraight_news%2F&usg=AOvVaw0ye30227QFuhaK7vkMNgGL
+Report collected on: 2020-11-18 03:14:47.357984
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 10 / 10
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

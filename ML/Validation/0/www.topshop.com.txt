@@ -1,0 +1,13 @@
+URL: topshop.com
+Report collected on: 2020-11-17 12:51:57.402094
+Will expire on: 2021-08-07
+Registered on: 1998-08-08
+Updated on: 2020-08-07
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

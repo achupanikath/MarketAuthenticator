@@ -1,0 +1,13 @@
+URL: u19336444.ct.sendgrid.net/ls/click?upn=tG-2F-2BajP63S4Qv5-2FpbMi5E1VrWaTLjBxzc3S4rBnk0WcXXUDVvK36PWsAgK-2FudftSnxsI-2F2ZqWaMRBqbOh61SRT-2FCJELFjBbuUd04mWqPjrm9f4HvvaJqarOAE2weDaccVk4P_GbGrQ7IxjvkLmwoUhsT4tWQbXVOnMml5XSmKIreAhghXLrG-2F60f6zS2M0gAM66EOoC0a3LoV5wuPq5-2FCHIgboA0Wy0RpHcXaEoYGve8Yi-2FjIs58p9uGARllav0PXmTQcTv-2BsagmdwS1MINqml0Iwf-2By5AZeJor62WtJ4JfIPW4gnrzNKjCJdr7x2N6ZWem2H0kh62GL-2FSAhLlgvurqLDtcOcTMj2TFYIZ6zQW6jiRlQ-3D
+Report collected on: 2020-11-18 02:34:11.751751
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 3/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: beardbrand.com
+Report collected on: 2020-11-17 17:08:22.756148
+Will expire on: 2021-01-25
+Registered on: 2012-01-25
+Updated on: 2020-01-18
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 5 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

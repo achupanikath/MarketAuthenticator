@@ -9,6 +9,7 @@ import urllib
 import certifi
 import cryptography
 from cryptography import x509
+import requests
 
 CA_CERTS = certifi.where()
 
@@ -30,7 +31,34 @@ def sslcert(host, port):
         print("Error")
 
 
-def check_host_name(peercert, split):
+def last_resort_https(url):
+    try:
+        urls = format_url(url)
+        HTTPS, addr, path = urls[0]
+        resp = requests.get("https://" + addr + path,  timeout=0.01)
+        check_headers = resp.headers
+        if str(check_headers).find("HttpOnly") > 1:
+            return False
+        check_https = resp.url
+        if "https" in check_https:
+            return True
+        else:
+            return False
+    except:
+        return False
+
+
+def last_resort_cert(url):
+    try:
+        urls = format_url(url)
+        HTTPS, addr, path = urls[0]
+        resp = requests.get("https://" + addr + path, verify = certifi.where(),  timeout=0.01)
+        return True
+    except:
+        return False
+
+
+def check_host_name(peercert, url):
     # code adapted from
     # https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/sect-Defensive_Coding-TLS-Client-Python.html
 
@@ -49,26 +77,30 @@ def check_host_name(peercert, split):
     if not peercert:
         return False
 
-    if (not isinstance(peercert, crypto.X509)):
-        if (not isinstance(peercert, str)):
-            peercert = ssl.DER_cert_to_PEM_cert(peercert)
-            peercert = bytes(peercert, encoding='utf-8')
-        peercert = crypto.x509.load_pem_x509_certificate(peercert)
+    try:
+        if (not isinstance(peercert, crypto.X509)):
+            if (not isinstance(peercert, str)):
+                peercert = ssl.DER_cert_to_PEM_cert(peercert)
+                peercert = bytes(peercert, encoding='utf-8')
+            peercert = crypto.x509.load_pem_x509_certificate(peercert)
 
-    subjalt_ext = cryptography.x509.oid.ExtensionOID.SUBJECT_ALTERNATIVE_NAME
-    ext = peercert.extensions.get_extension_for_oid(subjalt_ext)
-    # Get the dNSName entries from the SAN extension
-    dns = ext.value.get_values_for_type(cryptography.x509.DNSName)
-    if ((x in dns for x in names) or (x == dns for x in names)):
-        return True
-    else:
+        subjalt_ext = cryptography.x509.oid.ExtensionOID.SUBJECT_ALTERNATIVE_NAME
+        ext = peercert.extensions.get_extension_for_oid(subjalt_ext)
+        # Get the dNSName entries from the SAN extension
+        dns = ext.value.get_values_for_type(cryptography.x509.DNSName)
+        if ((x in dns for x in names) or (x == dns for x in names)):
+            return True
         # Only check the subject DN if there is no subject alternative
         # name.
         subj = peercert.subject
         cn = subj.get_attributes_for_oid(x509.NameOID.COMMON_NAME)[0].value
         if (cn in names):
             return True
-    return False
+        return False
+    except Exception as e:
+        print("Error in function check_host_name:")
+        print("     {}".format(str(e)))
+        return False
 
 
 def test(cert):
@@ -89,18 +121,13 @@ def get_certificate(url):
     results = format_url(url)
     for https, addr, path in results:
         port = 443 if https else 80
-        cert = ssl.get_server_certificate((addr, port))
+        try:
+            cert = ssl.get_server_certificate((addr, port))
+        except:
+            cert = None
         # cert = bytes(cert, encoding= 'utf-8')
         if cert is not None:
             return cert
-        '''
-        cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-        issuer = cert.get_issuer()
-        print(issuer)
-        subject = cert.get_subject()
-        print(subject)
-        components = dict(subject.get_components()) # convert to dict
-        print(components)'''
 
 
 def convert_certifi_to_PEM_list(trusted_certs=CA_CERTS):
@@ -118,6 +145,8 @@ def verify_certificate_chain(cert, trusted_certs=None):
     # https://aviadas.com/blog/2015/06/18/verifying-x509-certificate-chain-of-trust-in-python/
 
     # Create a certificate store and add your trusted certs
+    if cert is None:
+        return False
     try:
         # Download the certificate from the url and load the certificate
         if trusted_certs is None:
@@ -133,6 +162,7 @@ def verify_certificate_chain(cert, trusted_certs=None):
         # Create a certificate context using the store and the downloaded certificate
         if (not isinstance(cert, str)):
             cert = ssl.DER_cert_to_PEM_cert(cert)
+        cert = bytes(cert, encoding='utf-8')
         cert = crypto.load_certificate(type=crypto.FILETYPE_PEM, buffer=cert)
         store_ctx = crypto.X509StoreContext(store, cert)
 
@@ -142,6 +172,7 @@ def verify_certificate_chain(cert, trusted_certs=None):
         return True
 
     except Exception as e:
+        print("Error in function verify_certificate_chain:")
         print(e)
         return False
 
@@ -149,16 +180,19 @@ def verify_certificate_chain(cert, trusted_certs=None):
 def handshake(sock):
     # code adapted from
     # https://chaobin.github.io/2015/07/22/a-working-understanding-on-SSL-and-HTTPS-using-python/
-    new_sock = ssl.wrap_socket(sock,
-                               ciphers="HIGH:-aNULL:-eNULL:-PSK:RC4-SHA:RC4-MD5",
-                               ssl_version=ssl.PROTOCOL_TLS,
-                               cert_reqs=ssl.CERT_REQUIRED,  # I will verify your certificate
-                               ca_certs=CA_CERTS  # using a list of trusted CA's certificates
-                               )
+    try:
+        new_sock = ssl.wrap_socket(sock,
+                                   ciphers="HIGH:-aNULL:-eNULL:-PSK:RC4-SHA:RC4-MD5",
+                                   ssl_version=ssl.PROTOCOL_TLS,
+                                   cert_reqs=ssl.CERT_REQUIRED,  # I will verify your certificate
+                                   ca_certs=CA_CERTS  # using a list of trusted CA's certificates
+                                   )
+    except:
+        new_sock = ssl.wrap_socket(sock)
     return new_sock
 
 
-def make_header(path, addr, encoding, CRLF):
+def make_header(path, addr, encoding='utf-8', CRLF='\r\n\r\n'):
     # code adapted from
     # https://chaobin.github.io/2015/07/22/a-working-understanding-on-SSL-and-HTTPS-using-python/
 
@@ -204,16 +238,20 @@ def request(sock, path, addr, encoding='utf-8', CRLF='\r\n\r\n'):
         return parse_response(resp, encoding=encoding)
     except:
         # https failed
-        print("ERROR: Request to {} FAILED".format(url))
+        print("Error in function request")
+        print("Request to {} FAILED".format(url))
         return None
 
 
 def close_socket(sock):
-    sock.shutdown(1)
-    sock.close()
+    try:
+        sock.shutdown(1)
+        sock.close()
+    except:
+        pass
 
 
-def get_socket_and_cert(url, port=None, get_cert_format=None, https=True):
+def get_socket_and_cert(url, path, port=None, get_cert_format=None, https=True):
     # code adapted from
     # https://chaobin.github.io/2015/07/22/a-working-understanding-on-SSL-and-HTTPS-using-python/
 
@@ -231,6 +269,7 @@ def get_socket_and_cert(url, port=None, get_cert_format=None, https=True):
         sock.connect((url, port))
         if (https):
             sock = handshake(sock)
+
             if get_cert_format is not None:
                 if (not isinstance(get_cert_format, bool)):
                     get_cert_format = True
@@ -239,6 +278,7 @@ def get_socket_and_cert(url, port=None, get_cert_format=None, https=True):
                 return sock, certificate, True
         return sock, None, False
     except Exception as e:
+        print("Error in function get_socket_and_cert")
         print('{} connection failed for {} because of:'.format("https" if https else "http", url))
         print("     " + str(e) + "\n")
         return None, None, None
@@ -278,7 +318,7 @@ def get_any_socket(url, get_cert_format=None):
     # returns (socket, cert, https)
     urls = format_url(url)
     for HTTPS, addr, path in urls:
-        results = get_socket_and_cert(addr, https=HTTPS, get_cert_format=get_cert_format)
+        results = get_socket_and_cert(addr, path, https=HTTPS, get_cert_format=get_cert_format)
         if results[0] is not None:
             # if valid socket
             return results
@@ -290,41 +330,34 @@ def get_any_socket_cert(url, get_cert_format=None):
     socket, cert, https = get_any_socket(url, get_cert_format)
     if cert is None and get_cert_format is not None:
         cert = get_certificate(url)
+    if https is False or https is None:
+        https = last_resort_https(url)
     return socket, cert, https
 
 
 def check_all(url):
     sock = get_any_socket_cert(url, get_cert_format=True)
-    print("Checking {}\n".format(url))
-    print("Website supports https:          {}".format(str(sock[2])))
-    print("Certificate retrieved:           {}".format(str(sock[1] is not None)))
-    print("Certificate chain verified:      {}".format(str(verify_certificate_chain(sock[1]))))
-    print("Hostname matches certificate:    {}".format(str(check_host_name(sock[1], url))))
+    #print("Checking {}\n".format(url))
 
+    https = "Website supports https: {}".format(str(sock[2]))
+    cert = "Certificate retrieved: {}".format(str(sock[1] is not None))
+    cert_chain = "Certificate chain verified: {}".format(str(verify_certificate_chain(sock[1])))
+    hostname = "Hostname matches certificate: {}".format(str(check_host_name(sock[1], url)))
 
-# url = "https://aviadas.com/blog/2015/06/18/verifying-x509-certificate-chain-of-trust-in-python/"
-# url = "https://expired.badssl.com/"
-# url = "https://docs.python.org/3/tutorial/errors.html"
-# url = "https://addidas.com/us"
-url = "https://www.jetro.go.jp/"
-#url = "https://www.nike.com"
-#url = "nike.com"
-#url = "www.nike.com/us"
-#url = "expired.badssl.com/"
+    if sock[0] is not None:
+        close_socket(sock[0])
 
-check_all(url)
-'''
-Abilities so far:
-    make https socket
-    make http socket
-    request a webpage using http or https
-    get certificate
-    verify certificate chain
-    verify hostname
+    addr = format_url(url)[0][1]
+    if((cert.find("False") > 1 or cert_chain.find("False") > 1) and https.find("True")>1):
+        success = last_resort_cert(url)
+        if success:
+            cert = "Certificate retrieved: {}".format(str(success))
+            cert_chain = "Certificate chain verified: {}".format(success)
+            hostname = "Hostname matches certificate: {}".format(str(success))
 
-attributes:
-    https presence
-    valid certificate chain
-    valid hostname
-    whether there is a certificate
-'''
+    print(https)
+    print(cert)
+    print(cert_chain)
+    print(hostname)
+
+    return https, cert, cert_chain, hostname, addr

@@ -1,0 +1,13 @@
+URL: tophatter.com
+Report collected on: 2020-11-17 14:36:26.548311
+Will expire on: 2028-12-16
+Registered on: 2011-12-16
+Updated on: 2018-12-21
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

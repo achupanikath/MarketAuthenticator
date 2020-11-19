@@ -1,0 +1,13 @@
+URL: weeniecat.com/.well-known/pki-validation/pki-validation/login/Err.php
+Report collected on: 2020-11-17 23:53:41.178638
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 2/35
+Server Location: (CA) Canada
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

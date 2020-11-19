@@ -1,0 +1,13 @@
+URL: thenextweb.com
+Report collected on: 2020-11-17 14:34:12.293831
+Will expire on: 2021-08-02
+Registered on: 2008-08-02
+Updated on: 2020-07-03
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

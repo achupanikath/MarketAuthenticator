@@ -1,0 +1,13 @@
+URL: boombycindyjoseph.com
+Report collected on: 2020-11-17 17:15:01.094145
+Will expire on: 2022-12-13
+Registered on: 2007-12-13
+Updated on: 2017-01-23
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

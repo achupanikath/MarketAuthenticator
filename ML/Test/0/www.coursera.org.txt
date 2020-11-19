@@ -1,0 +1,13 @@
+URL: coursera.org
+Report collected on: 2020-11-17 16:49:46.766629
+Will expire on: 2023-01-12
+Registered on: 2012-01-12
+Updated on: 2012-09-10
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

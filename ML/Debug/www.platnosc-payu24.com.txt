@@ -1,0 +1,13 @@
+URL: www.platnosc-payu24.com
+Report collected on: 2020-11-17 01:25:26.782425
+Will expire on: 2021-11-10
+Registered on: 2020-11-10
+Updated on: 0001-01-01
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

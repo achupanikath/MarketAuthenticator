@@ -1,0 +1,13 @@
+URL: dat-25.com/it/1/?uclick=x9a41z37&uclickhash=x9a41z37-x9a41z37-ydfe-0-lp3y-y916-lp5m-d997d7
+Report collected on: 2020-11-18 00:24:46.662651
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 4/35
+Server Location: (DE) Germany
+Page Rank score is : 4 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

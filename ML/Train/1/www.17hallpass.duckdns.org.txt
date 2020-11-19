@@ -1,0 +1,13 @@
+URL: 17hallpass.duckdns.org/cn/e-invoice.php?login=
+Report collected on: 2020-11-17 22:22:54.181867
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 3/35
+Server Location: Unknown
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

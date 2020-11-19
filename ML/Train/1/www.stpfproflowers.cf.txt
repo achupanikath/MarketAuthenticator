@@ -1,0 +1,13 @@
+URL: stpfproflowers.cf/attloginF/v3917uidhq1/secure/upgrade/index.html?secure-auth/login?execution/cmd=login_submit&id=2673df7dd937f6f4a61dd2f3104bcfe92673df7dd937f6f4a61dd2f3104bcfe9&session=2673df7dd937f6f4a61dd2f3104bcfe92673df7dd937f6f4a61dd2f3104bcfe9
+Report collected on: 2020-11-18 01:58:25.906727
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 5/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

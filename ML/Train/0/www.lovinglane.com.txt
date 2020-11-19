@@ -1,0 +1,13 @@
+URL: lovinglane.com
+Report collected on: 2020-11-17 19:49:06.562357
+Will expire on: 2021-09-08
+Registered on: 2018-09-08
+Updated on: 2020-08-26
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 3 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

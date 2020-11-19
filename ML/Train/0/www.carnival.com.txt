@@ -1,0 +1,13 @@
+URL: carnival.com
+Report collected on: 2020-11-17 11:27:49.468723
+Will expire on: 2022-06-22
+Registered on: 1994-06-24
+Updated on: 2020-05-22
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

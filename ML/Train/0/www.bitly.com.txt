@@ -1,0 +1,13 @@
+URL: bitly.com
+Report collected on: 2020-11-17 14:43:12.070300
+Will expire on: 2020-11-12
+Registered on: 2003-11-12
+Updated on: 2019-11-12
+This site is: not blacklisted
+Blacklist score: 2/35
+Server Location: (US) United States
+Page Rank score is : 8 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

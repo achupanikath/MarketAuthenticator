@@ -1,0 +1,13 @@
+URL: coach.com
+Report collected on: 2020-11-17 18:38:20.236300
+Will expire on: 2022-05-01
+Registered on: 1996-04-30
+Updated on: 2020-06-21
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

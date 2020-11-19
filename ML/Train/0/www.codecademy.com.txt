@@ -1,0 +1,13 @@
+URL: codecademy.com
+Report collected on: 2020-11-17 11:32:26.130920
+Will expire on: 2021-08-10
+Registered on: 2011-08-10
+Updated on: 2018-01-25
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

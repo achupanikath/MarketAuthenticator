@@ -1,0 +1,13 @@
+URL: nintendo.com
+Report collected on: 2020-11-17 12:42:05.499931
+Will expire on: 2024-01-09
+Registered on: 1995-01-10
+Updated on: 2020-10-20
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

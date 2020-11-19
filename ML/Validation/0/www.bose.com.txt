@@ -1,0 +1,13 @@
+URL: www.bose.com
+Report collected on: 2020-11-18 04:26:51.470495
+Will expire on: 2020-12-19
+Registered on: 1991-12-20
+Updated on: 2020-11-16
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (IE) Ireland
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

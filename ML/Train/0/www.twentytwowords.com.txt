@@ -1,0 +1,13 @@
+URL: twentytwowords.com
+Report collected on: 2020-11-17 19:05:52.018532
+Will expire on: 2021-02-27
+Registered on: 2008-02-27
+Updated on: 2020-01-28
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: petsmart.com
+Report collected on: 2020-11-17 19:52:40.745181
+Will expire on: 2022-07-17
+Registered on: 1995-07-19
+Updated on: 2020-06-16
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

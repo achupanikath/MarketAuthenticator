@@ -1,0 +1,13 @@
+URL: ebay.com
+Report collected on: 2020-11-17 19:06:59.164602
+Will expire on: 2021-08-02
+Registered on: 1995-08-04
+Updated on: 2020-07-02
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 8 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

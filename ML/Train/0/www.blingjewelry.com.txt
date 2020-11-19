@@ -1,0 +1,13 @@
+URL: blingjewelry.com
+Report collected on: 2020-11-17 17:12:06.521798
+Will expire on: 2023-10-31
+Registered on: 2002-10-31
+Updated on: 2020-01-22
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

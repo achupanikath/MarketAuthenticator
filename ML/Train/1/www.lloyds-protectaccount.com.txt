@@ -1,0 +1,13 @@
+URL: lloyds-protectaccount.com/Login.php
+Report collected on: 2020-11-17 23:49:34.984205
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 5/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: www.bitesquad.com
+Report collected on: 2020-11-18 04:24:05.230038
+Will expire on: 2022-02-28
+Registered on: 2012-02-28
+Updated on: 2019-10-01
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

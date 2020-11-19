@@ -1,0 +1,13 @@
+URL: meineswisscom.bergstresserrealestate.com/dacav/?michel.aberson@unil.ch=michel.aberson@unil.ch
+Report collected on: 2020-11-18 03:14:05.236930
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: 2/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

@@ -1,0 +1,13 @@
+URL: blueshieldca.com
+Report collected on: 2020-11-17 14:43:56.563772
+Will expire on: 2022-02-26
+Registered on: 1996-02-25
+Updated on: 2019-03-04
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

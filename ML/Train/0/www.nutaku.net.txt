@@ -1,0 +1,13 @@
+URL: nutaku.net
+Report collected on: 2020-11-17 11:42:01.671009
+Will expire on: 2021-07-06
+Registered on: 2014-07-07
+Updated on: 2020-07-01
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: walmart.com
+Report collected on: 2020-11-17 19:07:34.014699
+Will expire on: 2021-09-23
+Registered on: 1995-02-23
+Updated on: 2020-10-02
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

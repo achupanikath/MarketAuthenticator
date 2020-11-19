@@ -1,0 +1,13 @@
+URL: indiasoftwarebrief.com/templates/system/css/world/BIZNET.php
+Report collected on: 2020-11-18 01:44:41.453959
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 4 / 10
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

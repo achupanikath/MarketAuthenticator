@@ -1,0 +1,13 @@
+URL: nationalgeographic.com
+Report collected on: 2020-11-17 11:34:08.295131
+Will expire on: 2021-10-09
+Registered on: 1995-10-10
+Updated on: 2020-10-09
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: cupshe.com
+Report collected on: 2020-11-17 17:23:49.029512
+Will expire on: 2024-02-27
+Registered on: 2015-02-27
+Updated on: 2019-02-28
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True
