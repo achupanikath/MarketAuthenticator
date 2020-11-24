@@ -31,13 +31,28 @@ main functionality of the data analyzer submodule, contains the code for the neu
 **main.py**:
 allows user to input a url through the console which will be run through the data collector, and then the data analyzer.  The output is a confidence score of the models prediction that the input url is either legitimate or phishing
 
+# Installation
+Note on Installation - the dependencies and libraries for this project are large files because machine learning is involved.  A zipped file including the code and all dependencies is too large (250+ MB) for a submission on moodle.  Either of the following methods are appropriate to run the code:
 
-Installation from complete project zip file:
+
+Installation from project zip file:
 -------------------
 1. Unzip the folder
 2. Open the folder in pycharm
-3. After pycharm finishes indexing, click "configure python interpreter" and set python 3.8 as your interpreter.  Instructions on how to do this are found here: https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html#add_new_project_interpreter
+3. Go to file -> settings -> Project: -> python interpreter.  Click on the down arrow next to python interpreter, and click show all.  Then click the + sign.  In the new window that pops up, set your base interpreter to your python 3.8 executable, wherever it has been installed (if you don't have it, you will need to install it).  Then select ok.  A window should pop up that says "creating virtual environment".  Instructions on how to do this are found here: https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html#add_new_project_interpreter
 4. Click on "add configuration" on the top right of the pycharm window.  Click on the + sign on the top left, select python, and set the script path to be main.py in the project root directory
+5. Navigate to the terminal (located at the bottom of the pycharm window).  Enter the following commands, in order:
+```
+pip install selenium
+pip install pyOpenSSL
+pip install certifi
+pip install requests
+pip install numpy==1.18.5
+pip install torch==1.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+pip install pandas
+pip install sklearn
+pip install matplotlib
+```
 
 Installation from github:
 -------------------
@@ -49,7 +64,7 @@ git remote add origin https://github.com/achupanikath/MarketAuthenticator.git
 git pull origin demo
 ```
 3. open the local directory in pycharm
-4. Go to file -> settings -> Project: -> python interpreter.  Click on the down arrow next to python interpreter, and click show all.  Then click the + sign.  In the new window that pops up, set your base interpreter to your python 3.8 executable, wherever it has been installed (if you don't have it, you will need to install it).  Then select ok.  A window should pop up that says "creating virtual environment".
+4. Go to file -> settings -> Project: -> python interpreter.  Click on the down arrow next to python interpreter, and click show all.  Then click the + sign.  In the new window that pops up, set your base interpreter to your python 3.8 executable, wherever it has been installed (if you don't have it, you will need to install it).  Then select ok.  A window should pop up that says "creating virtual environment".  Instructions on how to do this are found here: https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html#add_new_project_interpreter
 5. Click on "add configuration" on the top right of the pycharm window.  Click on the + sign on the top left, select python, and set the script path to be main.py in the project root directory
 6. Navigate to the terminal (located at the bottom of the pycharm window).  Enter the following commands, in order:
 ```
