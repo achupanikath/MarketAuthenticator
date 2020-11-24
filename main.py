@@ -1,6 +1,6 @@
 from scraper import url_data_collect
 from neural_network_helper import normalize_one_sample, preproces_attributes
-from neural_network import get_model_prediction, load_model
+from neural_network import get_model_prediction, load_model, Net
 
 means = [12345113.89037037, 12215814.084444445, 12145031.994074075, 0.1274074074074074, 0.5362962962962963, 7.41037037037037, 3.8533333333333335, 0.6607407407407407, 0.7614814814814815, 0.3896296296296296, 0.6607407407407407]
 max = [20301027, 20201118, 20201117, 1, 7, 13, 10, 1, 1, 1, 1]
