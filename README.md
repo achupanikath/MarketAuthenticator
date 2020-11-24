@@ -2,33 +2,33 @@
 This root folder contains 5 python files, 2 drivers, and 2 log files.  Each is described below:
 
 
-chromedriver.exe:
+**chromedriver.exe**:
 the driver that allows webscraping with Chrome.  This must be in the same directory as the file which performs the webscraping.
 
-debug.log
+**debug.log**:
 the file that stores Chrome debugging outputs
 
-geckodriver.exe
+**geckodriver.exe**:
 the driver that allows webscraping with FireFox.  This must be in the same directory as the file which performs the webscraping.
 
-geckodriver.log
+**geckodriver.log**:
 the file that stores FireFox webscraping logging outputs
 
 Python files
 -------------------
-https.py
+**https.py**:
 responsible for direct communication with the alleged website through https or http, also does certificate chain validation and hostname checking
 
-scraper.py
+**scraper.py**:
 main functionality of the data collector submodule, gathers 11 attributes about the alleged website using web scraping and by calling https.py
 
-neural_network_helper.py
+**neural_network_helper.py**:
 contains functions that were used while gathering data to train the model, and functions that were used for preprocessing gathered data to be fed to the model.
 
-neural_network.py
+**neural_network.py**:
 main functionality of the data analyzer submodule, contains the code for the neural network, including training it and submitting an individual data vector to it to see the output
 
-main.py
+**main.py**:
 allows user to input a url through the console which will be run through the data collector, and then the data analyzer.  The output is a confidence score of the models prediction that the input url is either legitimate or phishing
 
 
