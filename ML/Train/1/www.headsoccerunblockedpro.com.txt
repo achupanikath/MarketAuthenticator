@@ -1,0 +1,13 @@
+URL: headsoccerunblockedpro.com/wp-admin/js/widgets/1/lagosnewEXCEL/bizmail.php?email=cGFzY2FsZS5yb2RkaWVyQDByYW5nZS5mcg==&.rand=13vqcr8bp0gud&lc=1033&id=64855&mkt=en-us&cbcxt=mai&snsc=1
+Report collected on: 2020-11-17 23:48:34.444244
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 3/35
+Server Location: (US) United States
+Page Rank score is : 4 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

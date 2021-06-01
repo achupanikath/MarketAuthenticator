@@ -1,0 +1,13 @@
+URL: mannadipetcommune.in/css/micons/b2020123/1/index2.php?https://account_1und1_de/home/particulares_esAssistanceDesktop/LoadLoginAssistance?type=pwd
+Report collected on: 2020-11-18 00:34:26.868663
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

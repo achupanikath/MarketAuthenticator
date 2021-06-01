@@ -1,0 +1,13 @@
+URL: www.bestbuy.com
+Report collected on: 2020-11-18 04:22:03.189447
+Will expire on: 2022-03-03
+Registered on: 1994-03-03
+Updated on: 2020-02-01
+This site is: blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

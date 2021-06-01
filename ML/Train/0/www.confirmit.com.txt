@@ -1,0 +1,13 @@
+URL: confirmit.com
+Report collected on: 2020-11-17 15:01:59.785024
+Will expire on: 2020-12-23
+Registered on: 1998-12-23
+Updated on: 2020-10-21
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

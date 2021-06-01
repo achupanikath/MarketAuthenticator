@@ -1,0 +1,13 @@
+URL: consumerreports.org
+Report collected on: 2020-11-17 18:56:51.506074
+Will expire on: 2022-06-18
+Registered on: 1997-06-20
+Updated on: 2020-05-18
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 7 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

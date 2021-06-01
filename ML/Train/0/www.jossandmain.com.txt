@@ -1,0 +1,13 @@
+URL: jossandmain.com
+Report collected on: 2020-11-17 19:45:40.122823
+Will expire on: 2022-10-05
+Registered on: 2010-10-05
+Updated on: 2020-09-04
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

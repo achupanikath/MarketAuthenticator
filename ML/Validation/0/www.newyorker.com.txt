@@ -1,0 +1,13 @@
+URL: newyorker.com
+Report collected on: 2020-11-17 11:35:49.890999
+Will expire on: 2021-11-14
+Registered on: 1993-11-15
+Updated on: 2020-10-21
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

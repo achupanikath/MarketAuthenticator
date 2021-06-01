@@ -1,0 +1,13 @@
+URL: charbroil.com
+Report collected on: 2020-11-17 12:27:55.460923
+Will expire on: 2023-01-08
+Registered on: 1996-01-09
+Updated on: 2019-11-09
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

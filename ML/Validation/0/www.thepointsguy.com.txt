@@ -1,0 +1,13 @@
+URL: thepointsguy.com
+Report collected on: 2020-11-17 12:11:02.665319
+Will expire on: 2025-04-20
+Registered on: 2009-04-20
+Updated on: 2020-10-22
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

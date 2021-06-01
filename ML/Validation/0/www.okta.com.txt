@@ -1,0 +1,13 @@
+URL: okta.com
+Report collected on: 2020-11-17 16:59:20.642018
+Will expire on: 2025-06-11
+Registered on: 2004-06-11
+Updated on: 2020-08-06
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

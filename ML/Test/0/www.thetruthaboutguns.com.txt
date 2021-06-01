@@ -1,0 +1,13 @@
+URL: thetruthaboutguns.com
+Report collected on: 2020-11-17 12:13:14.157731
+Will expire on: 2023-08-28
+Registered on: 2010-02-16
+Updated on: 2020-07-29
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

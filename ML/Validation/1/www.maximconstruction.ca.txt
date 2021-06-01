@@ -1,0 +1,13 @@
+URL: maximconstruction.ca/wp-content/upgrade/Emirates-Post/emiratespost/manage/?appIdKey=fcd00c0656cc490&view=login
+Report collected on: 2020-11-18 01:43:55.407178
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 3 / 10
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

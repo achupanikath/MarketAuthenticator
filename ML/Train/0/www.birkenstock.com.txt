@@ -1,0 +1,13 @@
+URL: birkenstock.com
+Report collected on: 2020-11-17 18:22:49.565178
+Will expire on: 2021-03-27
+Registered on: 1995-03-15
+Updated on: 2020-06-04
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (DE) Germany
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

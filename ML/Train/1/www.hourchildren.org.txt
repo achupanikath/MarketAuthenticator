@@ -1,0 +1,13 @@
+URL: hourchildren.org/word-press/wp-content/uploads/-
+Report collected on: 2020-11-18 01:10:57.895167
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: torrid.com
+Report collected on: 2020-11-17 18:49:24.348552
+Will expire on: 2023-06-06
+Registered on: 2000-06-06
+Updated on: 2017-07-31
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

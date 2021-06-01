@@ -1,0 +1,13 @@
+URL: amazon-update.updateuserinfo.xyz/
+Report collected on: 2020-11-18 03:49:48.571762
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

@@ -1,0 +1,13 @@
+URL: opendns.com
+Report collected on: 2020-11-17 17:00:52.592312
+Will expire on: 2021-09-04
+Registered on: 2003-09-04
+Updated on: 2020-08-27
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

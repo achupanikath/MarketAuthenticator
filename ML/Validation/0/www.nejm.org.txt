@@ -1,0 +1,13 @@
+URL: nejm.org
+Report collected on: 2020-11-17 12:39:51.440953
+Will expire on: 2023-10-07
+Registered on: 1994-10-08
+Updated on: 2018-07-23
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

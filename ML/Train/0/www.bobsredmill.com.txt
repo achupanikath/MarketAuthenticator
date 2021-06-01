@@ -1,0 +1,13 @@
+URL: bobsredmill.com
+Report collected on: 2020-11-17 12:21:17.870894
+Will expire on: 2029-11-18
+Registered on: 1996-11-19
+Updated on: 2020-09-11
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

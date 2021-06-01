@@ -1,0 +1,13 @@
+URL: walletmyether.com/
+Report collected on: 2020-11-18 03:25:28.688534
+Will expire on: 2021-05-16
+Registered on: 2020-05-16
+Updated on: 2020-11-03
+This site is: blacklisted
+Blacklist score: 1/35
+Server Location: (RU) Russian Federation
+Page Rank score is : 2 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

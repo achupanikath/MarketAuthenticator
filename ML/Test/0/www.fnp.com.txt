@@ -1,0 +1,13 @@
+URL: fnp.com
+Report collected on: 2020-11-17 20:02:36.245604
+Will expire on: 2026-03-21
+Registered on: 1996-03-20
+Updated on: 2016-10-29
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

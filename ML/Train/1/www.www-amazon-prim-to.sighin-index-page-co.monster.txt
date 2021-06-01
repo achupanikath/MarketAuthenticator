@@ -1,0 +1,13 @@
+URL: www-amazon-prim-to.sighin-index-page-co.monster/pc/
+Report collected on: 2020-11-18 03:18:45.938750
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

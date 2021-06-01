@@ -1,0 +1,13 @@
+URL: www.booksamillion.com
+Report collected on: 2020-11-18 04:26:21.311855
+Will expire on: 2020-11-16
+Registered on: 1995-11-17
+Updated on: 2019-11-17
+This site is: blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

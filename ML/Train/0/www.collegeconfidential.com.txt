@@ -1,0 +1,13 @@
+URL: collegeconfidential.com
+Report collected on: 2020-11-17 14:22:55.977733
+Will expire on: 2021-05-04
+Registered on: 2001-05-04
+Updated on: 2020-03-31
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

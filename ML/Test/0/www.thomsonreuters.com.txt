@@ -1,0 +1,13 @@
+URL: thomsonreuters.com
+Report collected on: 2020-11-17 14:35:41.762025
+Will expire on: 2023-05-04
+Registered on: 2007-05-04
+Updated on: 2020-07-29
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

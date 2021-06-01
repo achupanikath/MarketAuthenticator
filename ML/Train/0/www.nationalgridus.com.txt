@@ -1,0 +1,13 @@
+URL: nationalgridus.com
+Report collected on: 2020-11-17 11:35:00.063374
+Will expire on: 2024-04-15
+Registered on: 1999-04-15
+Updated on: 2020-10-21
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

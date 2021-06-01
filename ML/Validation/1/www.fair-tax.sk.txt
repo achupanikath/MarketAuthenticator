@@ -1,0 +1,13 @@
+URL: fair-tax.sk/webapps/583c2/websrc?cmd=_login-submit&dispatch=889c528b031f41226135376e48c99462d42ae2a5940586aa5af601d5bf8f923b04f91163
+Report collected on: 2020-11-18 00:11:02.725649
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

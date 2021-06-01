@@ -1,0 +1,13 @@
+URL: kw.com
+Report collected on: 2020-11-17 14:24:22.985357
+Will expire on: 2022-04-17
+Registered on: 1995-04-16
+Updated on: 2017-02-28
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

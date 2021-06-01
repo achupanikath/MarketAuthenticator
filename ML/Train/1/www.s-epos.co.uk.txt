@@ -1,0 +1,13 @@
+URL: s-epos.co.uk/assets/mod/pt/-/page/manage
+Report collected on: 2020-11-18 00:36:04.742304
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 1/35
+Server Location: (GB) United Kingdom
+Page Rank score is : 2 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

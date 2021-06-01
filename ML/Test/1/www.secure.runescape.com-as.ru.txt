@@ -1,0 +1,13 @@
+URL: secure.runescape.com-as.ru/m=weblogin/loginform755,935,564,92022056,1
+Report collected on: 2020-11-17 22:53:15.080185
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 7/35
+Server Location: (NL) Netherlands
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

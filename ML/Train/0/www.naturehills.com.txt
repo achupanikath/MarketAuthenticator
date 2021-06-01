@@ -1,0 +1,13 @@
+URL: naturehills.com
+Report collected on: 2020-11-17 12:39:05.463153
+Will expire on: 2029-05-25
+Registered on: 2003-05-25
+Updated on: 2020-03-10
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 5 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

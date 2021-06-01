@@ -1,0 +1,13 @@
+URL: teamviewer.com
+Report collected on: 2020-11-17 14:32:01.482183
+Will expire on: 2021-09-21
+Registered on: 2004-09-21
+Updated on: 2020-09-22
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (NL) Netherlands
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

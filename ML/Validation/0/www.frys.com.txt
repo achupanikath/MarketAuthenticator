@@ -1,0 +1,13 @@
+URL: frys.com
+Report collected on: 2020-11-17 19:10:50.178880
+Will expire on: 2026-11-19
+Registered on: 1997-07-03
+Updated on: 2020-09-29
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

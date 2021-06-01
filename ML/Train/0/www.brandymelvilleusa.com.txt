@@ -1,0 +1,13 @@
+URL: brandymelvilleusa.com
+Report collected on: 2020-11-17 12:23:29.634288
+Will expire on: 2023-05-30
+Registered on: 2009-05-30
+Updated on: 2018-05-25
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

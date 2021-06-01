@@ -1,0 +1,13 @@
+URL: tasteofhome.com
+Report collected on: 2020-11-17 11:44:32.017022
+Will expire on: 2022-04-11
+Registered on: 1997-04-11
+Updated on: 2020-03-11
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

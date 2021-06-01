@@ -1,0 +1,13 @@
+URL: halifaxunrecognised-device.com/
+Report collected on: 2020-11-18 02:05:42.704146
+Will expire on: 2021-10-30
+Registered on: 2020-10-30
+Updated on: 0001-01-01
+This site is: not blacklisted
+Blacklist score: 5/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

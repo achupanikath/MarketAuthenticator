@@ -1,0 +1,13 @@
+URL: rakutenweb.buzz/
+Report collected on: 2020-11-17 23:30:00.617346
+Will expire on: 2021-11-17
+Registered on: 2020-11-17
+Updated on: 2020-11-17
+This site is: not blacklisted
+Blacklist score: 4/35
+Server Location: Unknown
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

@@ -1,0 +1,13 @@
+URL: u6405492.ct.sendgrid.net/ls/click?upn=5QjudVXftS6J29iNX89NJ20SejVzt89up6HG0dPrx095YA3d4LlASkellR9rLY2N-2BsJd-2BgjoGCu7TkQHby1bJWxmebulKAaq8meSFWVCkhjwxAbkpePbdJ9HgeKFgPJa8JtgS-2Fp2Nn6Mi3B4EIyCs8e7w-2BAQGNX2PF-2BBTp7n-2FBwAMQ7r5HxWBymXEVkVTvDgLocB_TE7Bz3RMcwCLUGOAZOKqTTSlHPurtg3cMVcCL1AcEZc5vFtpNHolTlLtB-2BBfw1ml5e23tlefH-2BLhXAq7T99YgWnGlkdjkxDyHfpyynJTFH98RtpyvAQUjampUWK4tRqcJ-2FjWMqNm7DXlcw2T8M3hsmTcxEniB1tjKOQFyikfU-2BCPbQBFtuAouzCBK9O5snPofkKumzMTRw7iTHZCPSKnm0ZsDuMpy8om7jX8-2BSWf2qE-3D
+Report collected on: 2020-11-18 03:43:27.791521
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

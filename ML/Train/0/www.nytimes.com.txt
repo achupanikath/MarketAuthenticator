@@ -1,0 +1,13 @@
+URL: nytimes.com
+Report collected on: 2020-11-17 11:42:51.538476
+Will expire on: 2023-01-19
+Registered on: 1994-01-18
+Updated on: 2020-07-24
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 9 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

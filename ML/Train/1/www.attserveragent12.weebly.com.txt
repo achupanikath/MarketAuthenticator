@@ -1,0 +1,13 @@
+URL: attserveragent12.weebly.com/
+Report collected on: 2020-11-18 03:41:32.134076
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

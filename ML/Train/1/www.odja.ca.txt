@@ -1,0 +1,13 @@
+URL: odja.ca//.well-known/MARKET/MARKET/
+Report collected on: 2020-11-18 00:39:52.125083
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 2/35
+Server Location: (US) United States
+Page Rank score is : 3 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

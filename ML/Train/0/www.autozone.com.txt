@@ -1,0 +1,13 @@
+URL: www.autozone.com
+Report collected on: 2020-11-18 04:17:48.371023
+Will expire on: 2030-09-25
+Registered on: 1995-09-26
+Updated on: 2020-09-26
+This site is: blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: aydcztexyibfriptbasuizlswe-dot-triple-upgrade-293822.rj.r.appspot.com/
+Report collected on: 2020-11-18 02:39:09.298362
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 3/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

@@ -1,0 +1,13 @@
+URL: swansonvitamins.com
+Report collected on: 2020-11-17 19:34:06.233597
+Will expire on: 2023-03-11
+Registered on: 1999-03-11
+Updated on: 2020-01-11
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

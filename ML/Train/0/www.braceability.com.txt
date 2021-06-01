@@ -1,0 +1,13 @@
+URL: braceability.com
+Report collected on: 2020-11-17 17:15:44.711673
+Will expire on: 2026-04-11
+Registered on: 2011-04-11
+Updated on: 2020-07-21
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

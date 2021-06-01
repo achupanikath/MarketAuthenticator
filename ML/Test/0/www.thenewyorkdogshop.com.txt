@@ -1,0 +1,13 @@
+URL: thenewyorkdogshop.com
+Report collected on: 2020-11-17 19:54:41.414838
+Will expire on: 2021-05-25
+Registered on: 2005-05-25
+Updated on: 2020-04-26
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

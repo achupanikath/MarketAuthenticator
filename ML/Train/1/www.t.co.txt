@@ -1,0 +1,13 @@
+URL: t.co/dUvfRwL8sS
+Report collected on: 2020-11-18 03:51:29.268528
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: 2/35
+Server Location: (US) United States
+Page Rank score is : 9 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

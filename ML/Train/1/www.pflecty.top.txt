@@ -1,0 +1,13 @@
+URL: pflecty.top/return/return.php
+Report collected on: 2020-11-18 03:31:16.487684
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

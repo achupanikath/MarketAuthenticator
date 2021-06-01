@@ -1,0 +1,13 @@
+URL: navient.com
+Report collected on: 2020-11-17 16:55:49.832006
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (NL) Netherlands
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

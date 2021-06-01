@@ -1,0 +1,13 @@
+URL: charlotterusse.com
+Report collected on: 2020-11-17 11:29:32.610541
+Will expire on: 2028-04-09
+Registered on: 2002-04-25
+Updated on: 2020-03-27
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: costco.com
+Report collected on: 2020-11-17 19:08:38.660955
+Will expire on: 2021-03-18
+Registered on: 1997-03-17
+Updated on: 2020-10-31
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

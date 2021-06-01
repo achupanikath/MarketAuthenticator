@@ -1,0 +1,13 @@
+URL: techradar.com
+Report collected on: 2020-11-17 19:02:31.294047
+Will expire on: 2026-12-06
+Registered on: 2003-12-06
+Updated on: 2020-07-13
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 7 / 10
+Website supports https: False
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: False

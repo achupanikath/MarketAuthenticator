@@ -1,0 +1,13 @@
+URL: kia.com
+Report collected on: 2020-11-17 14:23:39.327160
+Will expire on: 2021-04-15
+Registered on: 1996-12-11
+Updated on: 2020-04-02
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

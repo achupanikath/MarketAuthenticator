@@ -1,0 +1,13 @@
+URL: mail.royalhaircare.lk/wp-content/themes/twentynineteen/fonts/logirange.fr/orange_authen/customer-IDPP00C778/login.php
+Report collected on: 2020-11-17 23:22:32.431619
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

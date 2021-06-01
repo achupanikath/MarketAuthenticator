@@ -1,0 +1,13 @@
+URL: 4ocean.com
+Report collected on: 2020-11-17 17:06:04.325524
+Will expire on: 2026-03-21
+Registered on: 2004-03-21
+Updated on: 2016-12-13
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

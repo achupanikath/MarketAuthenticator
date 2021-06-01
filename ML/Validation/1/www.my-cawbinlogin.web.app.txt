@@ -1,0 +1,13 @@
+URL: my-cawbinlogin.web.app/
+Report collected on: 2020-11-18 01:47:36.109113
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: today.com
+Report collected on: 2020-11-17 12:14:40.592875
+Will expire on: 2023-04-06
+Registered on: 1998-04-07
+Updated on: 2019-04-22
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 8 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

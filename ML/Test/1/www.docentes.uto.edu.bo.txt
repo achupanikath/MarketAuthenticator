@@ -1,0 +1,13 @@
+URL: docentes.uto.edu.bo/aalavet/wp-includes/bid/information.php?access.x1194333973&&data.x=en_28cc100eb2f2a3a5e1fa7d700
+Report collected on: 2020-11-18 00:33:33.376816
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 2/35
+Server Location: (BO) Bolivia
+Page Rank score is : 2 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

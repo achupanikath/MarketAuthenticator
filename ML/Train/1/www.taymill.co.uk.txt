@@ -1,0 +1,13 @@
+URL: taymill.co.uk/.oppy4statey/Mill20200921_2219.pdf.html
+Report collected on: 2020-11-18 01:03:47.263906
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 2/35
+Server Location: (FR) France
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

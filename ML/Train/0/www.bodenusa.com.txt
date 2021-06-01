@@ -1,0 +1,13 @@
+URL: www.bodenusa.com
+Report collected on: 2020-11-18 04:25:22.216129
+Will expire on: 2021-02-09
+Registered on: 2016-07-27
+Updated on: 2020-01-02
+This site is: blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

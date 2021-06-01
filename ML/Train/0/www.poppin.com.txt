@@ -1,0 +1,13 @@
+URL: poppin.com
+Report collected on: 2020-11-17 19:40:43.368688
+Will expire on: 2021-05-10
+Registered on: 1998-05-11
+Updated on: 2020-05-10
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

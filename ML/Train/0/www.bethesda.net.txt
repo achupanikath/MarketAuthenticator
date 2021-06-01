@@ -1,0 +1,13 @@
+URL: bethesda.net
+Report collected on: 2020-11-17 11:20:53.824805
+Will expire on: 2022-04-11
+Registered on: 1997-04-10
+Updated on: 2020-09-15
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

@@ -1,0 +1,13 @@
+URL: consumersenergy.com
+Report collected on: 2020-11-17 16:49:00.813560
+Will expire on: 2021-10-17
+Registered on: 1996-10-18
+Updated on: 2020-10-21
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: grocery.walmart.com
+Report collected on: 2020-11-17 20:04:32.156616
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (NL) Netherlands
+Page Rank score is : 6 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

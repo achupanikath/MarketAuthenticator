@@ -1,0 +1,13 @@
+URL: care.com
+Report collected on: 2020-11-17 14:18:30.945755
+Will expire on: 2022-07-10
+Registered on: 1997-07-11
+Updated on: 2018-12-17
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

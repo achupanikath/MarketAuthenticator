@@ -1,0 +1,13 @@
+URL: tcpglobal.com
+Report collected on: 2020-11-17 18:14:52.516199
+Will expire on: 2022-02-06
+Registered on: 2004-02-06
+Updated on: 2020-05-27
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 5 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

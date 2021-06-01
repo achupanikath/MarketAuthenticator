@@ -1,0 +1,13 @@
+URL: carid.com
+Report collected on: 2020-11-17 19:11:25.018088
+Will expire on: 2023-12-31
+Registered on: 2001-12-31
+Updated on: 2018-03-19
+This site is: not blacklisted
+Blacklist score: Nothing found
+Server Location: 
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

@@ -1,0 +1,13 @@
+URL: carfax.com
+Report collected on: 2020-11-17 14:55:10.390129
+Will expire on: 2025-07-29
+Registered on: 1997-07-30
+Updated on: 2018-04-23
+This site is: not blacklisted
+Blacklist score: 1/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

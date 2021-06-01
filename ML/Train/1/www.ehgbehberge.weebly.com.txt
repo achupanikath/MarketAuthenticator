@@ -1,0 +1,13 @@
+URL: ehgbehberge.weebly.com/
+Report collected on: 2020-11-18 03:53:36.139584
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: blacklisted
+Blacklist score: 3/35
+Server Location: (US) United States
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

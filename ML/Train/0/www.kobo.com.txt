@@ -1,0 +1,13 @@
+URL: kobo.com
+Report collected on: 2020-11-17 12:37:34.525425
+Will expire on: 2025-12-04
+Registered on: 1996-12-05
+Updated on: 2020-10-05
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 7 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

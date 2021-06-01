@@ -1,0 +1,13 @@
+URL: burpee.com
+Report collected on: 2020-11-17 12:24:13.609654
+Will expire on: 2025-07-29
+Registered on: 1995-07-30
+Updated on: 2020-06-23
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

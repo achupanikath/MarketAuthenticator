@@ -1,0 +1,13 @@
+URL: theglobeandmail.com
+Report collected on: 2020-11-17 12:08:48.791624
+Will expire on: 2021-09-17
+Registered on: 1995-09-18
+Updated on: 2020-10-26
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (CA) Canada
+Page Rank score is : 7 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

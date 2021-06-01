@@ -1,0 +1,13 @@
+URL: brainpop.com
+Report collected on: 2020-11-17 14:46:52.212611
+Will expire on: 2030-02-22
+Registered on: 1999-02-22
+Updated on: 2020-02-22
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

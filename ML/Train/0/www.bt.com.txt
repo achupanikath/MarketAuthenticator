@@ -1,0 +1,13 @@
+URL: bt.com
+Report collected on: 2020-11-17 14:47:36.412165
+Will expire on: 2021-06-17
+Registered on: 1992-06-18
+Updated on: 2020-06-04
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (GB) United Kingdom
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

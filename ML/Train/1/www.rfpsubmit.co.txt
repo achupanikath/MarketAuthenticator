@@ -1,0 +1,13 @@
+URL: rfpsubmit.co/rfp/
+Report collected on: 2020-11-18 00:00:08.923627
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: 5/35
+Server Location: (SG) Singapore
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True

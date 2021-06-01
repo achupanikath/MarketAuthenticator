@@ -1,0 +1,13 @@
+URL: excelproperty.co.zw/wp-content/0usaanew/index2.php?https://account.1und1.de/home/particulares_esAssistanceDesktop/LoadLoginAssistance?type=pwd
+Report collected on: 2020-11-18 00:13:53.866658
+0000-00-00
+0000-00-00
+0000-00-00
+This site is: not blacklisted
+Blacklist score: Error
+Server Location: Error
+Page Rank score is : No pagerank found
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: True
+Hostname matches certificate: True

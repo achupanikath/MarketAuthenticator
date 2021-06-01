@@ -1,0 +1,13 @@
+URL: binnys.com
+Report collected on: 2020-11-17 12:19:50.738497
+Will expire on: 2021-11-11
+Registered on: 1996-04-11
+Updated on: 2017-12-18
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 5 / 10
+Website supports https: False
+Certificate retrieved: False
+Certificate chain verified: False
+Hostname matches certificate: False

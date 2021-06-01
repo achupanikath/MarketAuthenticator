@@ -1,0 +1,13 @@
+URL: northernbrewer.com
+Report collected on: 2020-11-17 18:07:56.044027
+Will expire on: 2022-06-16
+Registered on: 1999-06-16
+Updated on: 2017-12-20
+This site is: not blacklisted
+Blacklist score: 0/35
+Server Location: (US) United States
+Page Rank score is : 6 / 10
+Website supports https: True
+Certificate retrieved: True
+Certificate chain verified: False
+Hostname matches certificate: True
